@@ -221,21 +221,20 @@
   color: #363636;
 }
 
-/* neighboring pictures */
-
-.neighborhood-guides{
-    background-color: white;
-    border-bottom: 1px solid #dbdbdb;
+/* image grid */
+#img1{
+  width: 300px;
+  height: 205px;
 }
-
-.neighborhood-guides h2{
-    color: #393c3d;
-    font-size: 24px;
-}
-
-.neighborhood-guides p{
-    font-size: 15px;
-    margin-bottom: 13px; 
+#img2{
+  width: 300px;
+  height: 205px;
+}#img3{
+  width: 300px;
+  height: 205px;
+}#img4{
+  width: 300px;
+  height: 205px;
 }
 
 /* footer */ 
