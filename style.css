@@ -241,3 +241,8 @@
 .footer {
   text-align: center;
 }
+
+.footer .button {
+    position: absolute;
+    top: 50%;
+}
